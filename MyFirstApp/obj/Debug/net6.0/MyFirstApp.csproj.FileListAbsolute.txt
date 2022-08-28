@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/bin/Debug/net6.0/MyFirstApp
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/bin/Debug/net6.0/MyFirstApp.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/bin/Debug/net6.0/MyFirstApp.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/bin/Debug/net6.0/MyFirstApp.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/bin/Debug/net6.0/MyFirstApp.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/refint/MyFirstApp.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/MyFirstApp.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/MyFirstApp/obj/Debug/net6.0/ref/MyFirstApp.dll
