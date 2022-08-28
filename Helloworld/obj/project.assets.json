@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/Helloworld/Helloworld.csproj",
+      "projectUniqueName": "/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Helloworld/Helloworld.csproj",
       "projectName": "Helloworld",
-      "projectPath": "/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/Helloworld/Helloworld.csproj",
+      "projectPath": "/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Helloworld/Helloworld.csproj",
       "packagesPath": "/home/daniel/.nuget/packages/",
-      "outputPath": "/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/Helloworld/obj/",
+      "outputPath": "/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Helloworld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/daniel/.nuget/NuGet/NuGet.Config"
