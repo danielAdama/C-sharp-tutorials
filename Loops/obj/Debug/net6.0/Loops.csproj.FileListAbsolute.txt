@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/bin/Debug/net6.0/Loops
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/bin/Debug/net6.0/Loops.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/bin/Debug/net6.0/Loops.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/bin/Debug/net6.0/Loops.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/bin/Debug/net6.0/Loops.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/refint/Loops.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/Loops.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Loops/obj/Debug/net6.0/ref/Loops.dll
