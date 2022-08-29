@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/bin/Debug/net6.0/SimpleLoginSys
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/bin/Debug/net6.0/SimpleLoginSys.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/bin/Debug/net6.0/SimpleLoginSys.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/bin/Debug/net6.0/SimpleLoginSys.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/bin/Debug/net6.0/SimpleLoginSys.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/refint/SimpleLoginSys.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/SimpleLoginSys.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/SimpleLoginSys/obj/Debug/net6.0/ref/SimpleLoginSys.dll
