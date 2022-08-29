@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/bin/Debug/net6.0/Statement
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/bin/Debug/net6.0/Statement.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/bin/Debug/net6.0/Statement.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/bin/Debug/net6.0/Statement.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/bin/Debug/net6.0/Statement.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/refint/Statement.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/Statement.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/Statement/obj/Debug/net6.0/ref/Statement.dll
