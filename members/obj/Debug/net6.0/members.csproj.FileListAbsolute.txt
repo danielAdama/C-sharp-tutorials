@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/bin/Debug/net6.0/members
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/bin/Debug/net6.0/members.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/bin/Debug/net6.0/members.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/bin/Debug/net6.0/members.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/bin/Debug/net6.0/members.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/refint/members.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/members.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/members/obj/Debug/net6.0/ref/members.dll
