@@ -20,10 +20,23 @@ namespace OPP
             // // This is how to call object of the method Daniel.
             // myname.introduceMyself();
 
-            Human myname = new Human("Daniel", "Adama", "blue", 24);
+            // Human myname = new Human("Daniel", "Adama", "blue", 24);
+            Human natalie = new Human("Natalie");
+            natalie.introduceMyself();
+            Human mikel = new Human("Mikel", "Jones");
+            mikel.introduceMyself();
+            Human frank = new Human("Frank", "Walter", 25);
+            frank.introduceMyself();
+
+
+
+
+
             myname.introduceMyself();
-            Human simon = new Human("simon", "adama", "red", 21);
+            Human simon = new Human();
             simon.introduceMyself();
+
+
 
 
             
