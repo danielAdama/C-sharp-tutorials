@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/bin/Debug/net6.0/properties
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/bin/Debug/net6.0/properties.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/bin/Debug/net6.0/properties.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/bin/Debug/net6.0/properties.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/bin/Debug/net6.0/properties.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/refint/properties.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/properties.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/properties/obj/Debug/net6.0/ref/properties.dll
