@@ -1,0 +1,15 @@
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/bin/Debug/net6.0/PartyInviteApp
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/bin/Debug/net6.0/PartyInviteApp.deps.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/bin/Debug/net6.0/PartyInviteApp.runtimeconfig.json
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/bin/Debug/net6.0/PartyInviteApp.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/bin/Debug/net6.0/PartyInviteApp.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.csproj.AssemblyReference.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.AssemblyInfoInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.AssemblyInfo.cs
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/refint/PartyInviteApp.dll
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.pdb
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/PartyInviteApp.genruntimeconfig.cache
+/home/daniel/Desktop/programming/pythondatascience/datascience/c_sharp/learn_resources/C-sharp-tutorials/PartyInviteApp/obj/Debug/net6.0/ref/PartyInviteApp.dll
